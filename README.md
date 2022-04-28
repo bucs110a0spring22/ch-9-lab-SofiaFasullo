@@ -7,18 +7,18 @@
 Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+This program creates two classes, Rectangle and Surface to create a GUI. This is object oriented. The main file creates various shaped rectangles and then sprite surface objects using pygame package. The main function then checks that these classes and their functions meet the requirements met in the lab.
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: < 1 >
 
-Grace days remaining: < # >/5
+Grace days remaining: < 0 >/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+I couldn't figure out how to get line 23 in main to be satisfied assert(s.image == "myimage.png"). I looked up many notes sources but I couldn't figure anything out.
 
 ## REFERENCES:
- < List any outside resources used >
+https://binghamton.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=793548b8-248a-460a-9949-aba601564124
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+None
